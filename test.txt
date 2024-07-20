@@ -1,0 +1,12 @@
+hello 
+
+
+remote          local
+- main              -main
+                        - feature 1
+                            changes code
+                            - git add .
+                            - git commit -m "stable code"
+                            - chnages 
+                            - git add
+                            - git commit
